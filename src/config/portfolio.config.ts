@@ -83,7 +83,7 @@ export const portfolioConfig = {
     roles: [
       "Freelancer",
       "Blogger",
-      "Gamer",
+      "Signer",
       "Creator",
       "Student",
       "Contributer",
