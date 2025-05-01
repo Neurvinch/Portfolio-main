@@ -63,11 +63,11 @@ export const portfolioConfig = {
 
   // About Information
   about: {
-    bio: "I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand, India. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
+    bio: "I am a Full Stack Web Developer from chennai, Tamil Nadu, India. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
     hobbies: [
       "Coding",
-      "Playing Games",
-      "Watching Anime",
+      "Making Vocals to vibrate",
+      "Watching Football",
       "Tech Blog Writing",
       "Creating Cool Projects",
     ],
