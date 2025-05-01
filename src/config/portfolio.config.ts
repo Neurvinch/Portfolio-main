@@ -128,10 +128,7 @@ export const portfolioConfig = {
         name: "Next.js",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
       },
-      {
-        name: "Vue.js",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
-      },
+
       {
         name: "Svelte",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
@@ -184,12 +181,12 @@ export const portfolioConfig = {
   // Education Information
   education: [
     {
-      degree: "Bachelor of Computer Application",
-      institution: "Ranchi University Jharkhand",
-      location: "Doranda College Ranchi",
-      period: "July 2023 - 2026",
+      degree: "Bachelor of Computer Science Engineering",
+      institution: "Jaya Engineering College, Chennai",
+      location: " Chennai, Tamil Nadu, India",
+      period: "July 2023 - 2027",
       description:
-        "I am currently Studying Bachelor of Computer Application form Doranda College Ranchi a Goverment College of Ranchi. The program has provided me with a well-rounded education, covering both theoretical foundations and practical applications of computer science.",
+        "I am currently pursuing my B.E in Computer Science Engineering from Jaya Engineering College, Chennai. I am in 2nd year and I am learning many things related to computer science and engineering.",
     },
   ],
 
