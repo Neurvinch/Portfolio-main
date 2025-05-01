@@ -1,9 +1,10 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Md Taqui Imam",
-  title: "Software Engineer",
-  description: "I am a Passionate Software Developer",
-  location: "Ramgarh cantt, Jharkhand, India",
+  name: "Naveen Pandian",
+  title: "Blockchain Full Stack Engineer",
+  description:
+    "I am a Full Stack Web Developer from chennai, Tamil Nadu, India. I'm passionate about crafting web projects and contributing to open-source communities. I specialize in modern JavaScript frameworks and responsive CSS design, focusing on creating pixel-perfect, user-friendly interfaces. With strong attention to detail and efficient delivery, I build seamless web experiences that combine functionality with elegant design.",
+  location: "chennai, Tamil Nadu, India",
 
   // Contact Information
   email: "taquiimam@example.com", // Replace with actual email if available
