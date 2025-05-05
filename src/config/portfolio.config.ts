@@ -194,10 +194,10 @@ export const portfolioConfig = {
    projects: [
     {
        title: "WePost- A modern, minimalistic social platform.",
-  //     description:
-  //       "WePost is a modern, minimalistic social platform for sharing posts, like, follow, and engaging in comments etc.",
-  //     tags: ["Tanstack-Query", "PostgreSQL", "Shadcn Ui", "Nextjs"],
-  //     link: "https://we-post-dev.vercel.app",
+       description:
+        "WePost is a modern, minimalistic social platform for sharing posts, like, follow, and engaging in comments etc.",
+       tags: ["Tanstack-Query", "PostgreSQL", "Shadcn Ui", "Nextjs"],
+       link: "https://we-post-dev.vercel.app",
      },
   //   {
   //     title: "Devzone- A community chat app for devs",
