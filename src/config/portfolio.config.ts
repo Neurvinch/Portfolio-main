@@ -11,10 +11,10 @@ export const portfolioConfig = {
 
   // Social Media Links
    socialLinks: {
-  //   facebook: "https://www.facebook.com/shahina.khatun.1044",
+   facebook: "na",
     twitter: "https://x.com/naveenp44368937",
     linkedin: "https://www.linkedin.com/in/naveen-pandian-2215732a5/",
-    // external: "https://tinyurl.com/MdTaquiImam",
+     external: "na",
     github: "https://github.com/Neurvinch?tab=overview&from=2025-05-01&to=2025-05-05", // Assuming this is the GitHub link
   },
 
