@@ -191,7 +191,7 @@ export const portfolioConfig = {
   ],
 
   // Projects Information
-  // projects: [
+   projects: [
   //   {
   //     title: "WePost- A modern, minimalistic social platform.",
   //     description:
@@ -276,10 +276,10 @@ export const portfolioConfig = {
   //     tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
   //     link: "https://github.com/taqui-786/crousal-maker",
   //   },
-  // ],
+   ],
 
   // // More Links Information
-  // moreLinks: [
+   moreLinks: [
   //   {
   //     title: "Dev.to",
   //     description:
@@ -316,10 +316,10 @@ export const portfolioConfig = {
   //       "Supports my content quality, new topics, and project creation.",
   //     link: "https://www.buymeacoffee.com/taquidevloper",
   //   },
-  // ],
+   ],
 
   // // API Keys (should be in .env but referenced here)
-  // apiKeys: {
+   apiKeys: {
   //   resendApiKey: "YOUR_RESEND_API_KEY", // This should be loaded from environment variables in a real app
-  // },
+   },
 };
