@@ -192,13 +192,13 @@ export const portfolioConfig = {
 
   // Projects Information
    projects: [
-  //   {
-  //     title: "WePost- A modern, minimalistic social platform.",
+    {
+       title: "WePost- A modern, minimalistic social platform.",
   //     description:
   //       "WePost is a modern, minimalistic social platform for sharing posts, like, follow, and engaging in comments etc.",
   //     tags: ["Tanstack-Query", "PostgreSQL", "Shadcn Ui", "Nextjs"],
   //     link: "https://we-post-dev.vercel.app",
-  //   },
+     },
   //   {
   //     title: "Devzone- A community chat app for devs",
   //     description:
@@ -280,12 +280,12 @@ export const portfolioConfig = {
 
   // // More Links Information
    moreLinks: [
-  //   {
-  //     title: "Dev.to",
-  //     description:
-  //       "I write blogs on web development, trending tech stacks or javascript guide or tips in Dev.to ",
-  //     link: "https://dev.to/random_ti",
-  //   },
+     {
+       title: "Dev.to",
+       description:
+         "I write blogs on web development, trending tech stacks or javascript guide or tips in Dev.to ",
+       link: "https://dev.to/random_ti",
+     },
   //   {
   //     title: "Hashnode",
   //     description:
@@ -320,6 +320,6 @@ export const portfolioConfig = {
 
   // // API Keys (should be in .env but referenced here)
    apiKeys: {
-  //   resendApiKey: "YOUR_RESEND_API_KEY", // This should be loaded from environment variables in a real app
+     resendApiKey: "YOUR_RESEND_API_KEY", // This should be loaded from environment variables in a real app
    },
 };
