@@ -200,13 +200,13 @@ export const portfolioConfig = {
       tags: ["Tanstack-Query", "PostgreSQL", "Shadcn Ui", "Nextjs"],
       link: "https://we-post-dev.vercel.app",
     },
-    {
-      title: "Kalinga University Page",
-      description:
-        "A comprehensive university website showcasing programs, facilities, and campus information.",
-      tags: ["React", "Next.js", "Tailwind CSS", "TypeScript"],
-      link: "https://kalinga-univ.vercel.app/",
-    },
+    // {
+    //   title: "Kalinga University Page",
+    //   description:
+    //     "A comprehensive university website showcasing programs, facilities, and campus information.",
+    //   tags: ["React", "Next.js", "Tailwind CSS", "TypeScript"],
+    //   link: "https://kalinga-univ.vercel.app/",
+    // },
     {
       title: "Eduzy",
       description:
