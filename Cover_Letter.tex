@@ -1,0 +1,112 @@
+%-------------------------
+% Cover Letter in LaTeX
+% Author : Naveen Pandian
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+%----------FONT OPTIONS----------
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-8pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------------------------
+%%%%%%  COVER LETTER STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape Naveen Pandian} \\ \vspace{2pt}
+    Chennai, Tamil Nadu, India \\ \vspace{2pt}
+    \small \raisebox{-0.1\height}\faPhone\ +91-XXXXXXXXXX ~ 
+    \href{mailto:npandian515@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{npandian515@gmail.com}} ~ 
+    \href{https://www.linkedin.com/in/naveen-pandian-2215732a5/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/naveen-pandian}}  ~
+    \href{https://github.com/Neurvinch}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/Neurvinch}} ~
+    \href{https://x.com/naveenp44368937}{\raisebox{-0.2\height}\faTwitter\ \underline{@naveenp44368937}}
+    \vspace{-12pt}
+\end{center}
+
+\vspace{0.5in}
+
+\today
+
+\vspace{0.2in}
+
+\textbf{Hiring Manager} \\
+\textbf{Company Name} \\
+Company Address \\
+City, State, Zip Code
+
+\vspace{0.3in}
+
+\textbf{Re: Application for [Job Title] Position}
+
+\vspace{0.2in}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the [Job Title] position at [Company Name], as advertised on [Platform/Referral]. As a Blockchain Full Stack Engineer and 2nd-year dedicated Computer Science student at Jaya Engineering College, I have cultivated a robust skill set in modern web development and distributed systems that aligns perfectly with your team's needs.
+
+Through my experience building full-stack applications like \textbf{WePost} (a social media platform using Next.js and PostgreSQL) and \textbf{KryptoKapital} (a cryptocurrency learning platform), I have demonstrated my ability to deliver scalable, user-centric solutions. I am particularly passionate about the intersection of elegant frontend design and powerful backend architecture, utilizing tools like React, TypeScript, and Node.js to solve complex problems.
+
+My background includes:
+\begin{itemize}
+    \item Developing responsive, high-performance web applications using the \textbf{Next.js} ecosystem.
+    \item Integrating complex state management and real-time features using \textbf{Zustand} and \textbf{Supabase}.
+    \item Implementing secure and efficient backend services with PostgreSQL and Redis.
+    \item A strong commitment to open-source contributions and continuous learning.
+\end{itemize}
+
+I am excited about the opportunity to contribute to [Company Name]'s mission and bring my technical expertise and creative problem-solving skills to your team. I am eager to discuss how my background in full-stack development and blockchain technologies can add value to your projects.
+
+Thank you for considering my application. I look forward to the possibility of discussing this exciting opportunity with you.
+
+Sincerely,
+
+\vspace{0.2in}
+
+\textbf{Naveen Pandian}
+
+\end{document}
